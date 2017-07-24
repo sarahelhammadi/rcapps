@@ -1,7 +1,6 @@
-
 ---
-layout: default
-title:  "Welcome to RCAPPS"
+layout: default 
+title: Welcome 
 ---
 
 ## SPACK Hands On
