@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "Welcome to RCAPPS"
+---
+
 ## SPACK Hands On
 
 # Prerequisites:
