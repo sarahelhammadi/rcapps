@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Spack Hands On"
 date:   2017-07-25
 ---
 
