@@ -2,6 +2,8 @@
 layout: post
 title:  "Spack Hands On"
 date:   2017-07-25
+url: "sarahelhammadi.github.io/rcapps"
+permalink: /:title
 ---
 
 Application | Description
